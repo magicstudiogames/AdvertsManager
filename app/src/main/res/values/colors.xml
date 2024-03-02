@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00000000</color>
+
+
+    <color name="colorPrimary">#FFA020F0</color>
+    <color name="colorPrimaryDark">#FF45076C</color>
+    <color name="colorAccent">#FFC77CF6</color>
+
+    <color name="item_disabled">#FFC77CF6</color>
+    <color name="item_hovered">#FF800DC8</color>
+    <color name="item_pressed">#FF45076C</color>
+    <color name="item_normal">#FFA020F0</color>
+</resources>

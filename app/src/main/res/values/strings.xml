@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name" translatable="false">Adverts Manager</string>
+    <string name="open_source_project">Open source project</string>
+    <string name="admob">Admob</string>
+    <string name="interstitial_ad">Interstitial</string>
+    <string name="load">Load</string>
+    <string name="rewarded_ad">Rewarded</string>
+    <string name="settings">Settings</string>
+    <string name="show">Show</string>
+    <string name="unity">Unity</string>
+    <string name="description">The Adverts Manager Project is an open-source initiative designed to provide developers with an easy means of integrating Google AdMob and Unity Ads into their applications.</string>
+    <string name="do_you_want_to_go_back_to_the_home_screen">Do you want to go back to the home screen</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+</resources>

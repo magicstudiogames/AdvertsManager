@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="admob_app" translatable="false">@string/admob_id_app</string>
+    <string name="admob_banner" translatable="false">@string/admob_id_banner</string>
+    <string name="admob_interstitial" translatable="false">@string/admob_id_interstitial</string>
+    <string name="admob_awarded" translatable="false">@string/admob_id_awarded</string>
+
+    <string name="admob_id_app" translatable="false">ca-app-pub-4150090020378687~9928521671</string>
+    <string name="admob_id_banner" translatable="false">ca-app-pub-4150090020378687/8870590875</string>
+    <string name="admob_id_interstitial" translatable="false">ca-app-pub-4150090020378687/9789065340</string>
+    <string name="admob_id_awarded" translatable="false">ca-app-pub-4150090020378687/2206675521</string>
+
+    <string name="admob_id_app_test" translatable="false">ca-app-pub-4150090020378687~9928521671</string>
+    <string name="admob_id_banner_test" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_id_interstitial_test" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="admob_id_awarded_test" translatable="false">ca-app-pub-3940256099942544/5224354917</string>
+
+    <string name="unity_game_app" translatable="false">5293705</string>
+    <string name="unity_game_banner" translatable="false">Banner_Android</string>
+    <string name="unity_game_interstitial" translatable="false">Interstitial_Android</string>
+    <string name="unity_game_rewarded" translatable="false">Rewarded_Android</string>
+    <bool name="unity_game_test_mode">false</bool>
+
+
+</resources>
