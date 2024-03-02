@@ -1,0 +1,64 @@
+## **Política de Privacidade e Termos de Uso**
+
+**Projeto Adverts Manager**
+
+**1. Introdução**
+
+O Adverts Manager é um aplicativo Android de código aberto que oferece aos desenvolvedores uma plataforma simplificada para a integração de anúncios do Google AdMob e da Unity Ads. A presente Política de Privacidade e Termos de Uso ("Política") descreve como coletamos, usamos e protegemos seus dados ao utilizar o Adverts Manager.
+
+**2. Coleta de Dados**
+
+O Adverts Manager **não coleta** nenhum dado pessoal ou informações do usuário. Isso inclui, mas não se limita a:
+
+* Nome
+* E-mail
+* Endereço IP
+* Localização
+* Histórico de navegação
+
+**3. Uso de Dados**
+
+O Adverts Manager **não usa** nenhum dado do usuário para qualquer finalidade.
+
+**4. Compartilhamento de Dados**
+
+O Adverts Manager **não compartilha** nenhum dado do usuário com terceiros.
+
+**5. Segurança de Dados**
+
+O Adverts Manager está comprometido em proteger a segurança dos seus dados. Implementamos medidas de segurança técnicas e organizacionais adequadas para proteger seus dados contra acesso não autorizado, uso indevido, divulgação, alteração ou destruição.
+
+**6. Código Aberto**
+
+O Adverts Manager é um projeto de código aberto. O código do aplicativo está disponível no GitHub para que qualquer pessoa possa revisá-lo e contribuir para o seu aprimoramento.
+
+**7. Termos de Uso**
+
+Ao utilizar o Adverts Manager, você concorda com os seguintes termos:
+
+* Você concorda em usar o Adverts Manager apenas para fins lícitos e em conformidade com esta Política.
+* Você não pode modificar, distribuir ou vender o Adverts Manager.
+* Você não pode remover ou alterar os avisos de direitos autorais do Adverts Manager.
+* Você concorda em indenizar e isentar o Adverts Manager de qualquer responsabilidade por danos causados pelo seu uso do aplicativo.
+
+**8. Alterações na Política**
+
+O Adverts Manager pode alterar esta Política a qualquer momento. Se fizermos alterações significativas na Política, notificaremos você por meio do aplicativo ou por e-mail.
+
+**9. Contato**
+
+Se você tiver alguma dúvida sobre esta Política, entre em contato conosco pelo e-mail [endereço de e-mail].
+
+**10. Data de Vigência**
+
+Esta Política entrou em vigor em 2 de março de 2024.
+
+**11. Observações Importantes**
+
+* O Adverts Manager está em fase de desenvolvimento.
+* O Adverts Manager não oferece suporte técnico.
+* O Adverts Manager não é afiliado ao Google ou à Unity.
+
+**Ao utilizar o Adverts Manager, você concorda com os termos desta Política.**
+
+**Obrigado por usar o Adverts Manager!**
