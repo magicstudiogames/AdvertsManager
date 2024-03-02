@@ -11,6 +11,7 @@ import androidx.activity.OnBackPressedCallback;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentTransaction;
+import androidx.preference.Preference;
 import androidx.preference.PreferenceFragmentCompat;
 
 import com.google.android.material.dialog.MaterialAlertDialogBuilder;
@@ -53,14 +54,19 @@ public class SettingActivity extends AppCompatActivity {
 
     public static class SettingsFragment extends PreferenceFragmentCompat {
 
+        private final Uri uri = Uri.parse("https://github.com/magicstudiogames/AdvertsManager");
+
         @Override
         public void onCreatePreferences(Bundle savedInstanceState, String rootKey) {
             setPreferencesFromResource(R.xml.settings, rootKey);
 
-            final String url = "https://github.com/magicstudiogames/AdvertsManager";
-            Uri uri = Uri.parse(url);
-            Intent intent = new Intent(Intent.ACTION_VIEW, uri);
-            startActivity(intent);
+            Preference openSourceProject = findPreference("open_source_project");
+            if (openSourceProject != null) {
+                openSourceProject.setOnPreferenceClickListener(preference -> {
+                    startActivity(new Intent(Intent.ACTION_VIEW, uri));
+                    return true;
+                });
+            }
         }
     }
 

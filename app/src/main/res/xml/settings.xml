@@ -3,9 +3,8 @@
     app:title="@string/settings">
 
     <androidx.preference.Preference
-        app:iconSpaceReserved="false"
         app:icon="@drawable/ic_github"
-        app:key="account_sign_out"
+        app:key="open_source_project"
         app:summary="@string/app_name"
         app:title="@string/open_source_project" />
 
