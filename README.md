@@ -5,13 +5,13 @@ The Adverts Manager Project is an open-source initiative designed to provide dev
 The classes support the following types of ads:
 
 - AdmobManager.java
-  -- Banner
-  -- Interstitial
-  -- Rewarded
+  - Banner
+  - Interstitial
+  - Rewarded
 
 - UnityManager.java
-  -- Banner
-  -- Interstitial
-  -- Rewarded
+  - Banner
+  - Interstitial
+  - Rewarded
 
 It is worth noting that the project is still under development. Those interested in contributing to its enhancement can access the repository on GitHub through the application settings.
